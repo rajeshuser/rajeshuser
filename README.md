@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **rajeshdyawarkonda123@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1xUhgWoTVILtyyJkRONTPPt1GmJm0GIRa/view](https://drive.google.com/file/d/1xUhgWoTVILtyyJkRONTPPt1GmJm0GIRa/view)
+- 📄 Know about me <a href="https://drive.google.com/file/d/1xUhgWoTVILtyyJkRONTPPt1GmJm0GIRa/view?usp=share_link">here</a>
 
 - ⚡ Fun fact **I am not from Computer Science**
 
