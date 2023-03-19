@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
-- 👨‍💻 All of my projects are available at [rajeshuser.github.io](rajeshuser.github.io)
+- 👨‍💻 All of my projects are available at [rajeshuser.github.io](http://rajeshuser.github.io)
 
 - 💬 Ask me about **HTML, CSS, JS, TS, React, Node, Express and MongoDB**
 
